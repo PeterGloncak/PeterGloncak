@@ -2,8 +2,8 @@
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://pbs.twimg.com/media/EXhRKTLU8AIQ9Bu.jpg:large)">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://pbs.twimg.com/media/EXhRKTLU8AIQ9Bu.jpg:large)">
  <img alt="Furry" src="https://pbs.twimg.com/media/EXhRKTLU8AIQ9Bu.jpg:large">
 </picture>
 <!--
