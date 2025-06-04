@@ -4,7 +4,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="Furry" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fx.com%2FSkyMafiaArt%2Fstatus%2F1258845479481139200%3Flang%3Dbg&psig=AOvVaw0gqtP0lE4LGkwptItSGfz9&ust=1749151119330000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDG4u-92I0DFQAAAAAdAAAAABAE">
+ <img alt="Furry" src="https://pbs.twimg.com/media/EXhRKTLU8AIQ9Bu.jpg:large">
 </picture>
 <!--
 **PeterGloncak/PeterGloncak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
