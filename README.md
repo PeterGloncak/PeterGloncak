@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="Furry" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwFVakPY-BlFtUUaLC3oZHgzKyp6WzdWh1hL6b1ooAKD46qBucRZmNpThC1fWORG4jszs&usqp=CAU">
+</picture>
 <!--
 **PeterGloncak/PeterGloncak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
