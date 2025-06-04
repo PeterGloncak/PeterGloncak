@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## 🔭 I’m currently working on Vibe coding <3
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://pbs.twimg.com/media/EXhRKTLU8AIQ9Bu.jpg:large)">
@@ -11,7 +11,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Vibe coding <3
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
